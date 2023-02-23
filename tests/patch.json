@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/rock-paper-scissors/rules/shapes/-",
+    "value": {
+      "name": "Lizard",
+      "opp_code": "D",
+      "player_code": "W",
+      "wins_against": "B",
+      "score": 4
+    }
+  }
+]

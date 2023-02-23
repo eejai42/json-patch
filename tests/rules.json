@@ -1,0 +1,35 @@
+{
+  "rock-paper-scissors": {
+    "name": "Rock, Paper, Scissors",
+    "rules": {
+      "shapes": [
+        {
+          "name": "Rock",
+          "opp_code": "A",
+          "player_code": "X",
+          "wins_against": "C",
+          "score": 1
+        },
+        {
+          "name": "Paper",
+          "opp_code": "B",
+          "player_code": "Y",
+          "wins_against": "A",
+          "score": 2
+        },
+        {
+          "name": "Scissors",
+          "opp_code": "C",
+          "player_code": "Z",
+          "wins_against": "B",
+          "score": 3
+        }
+      ],
+      "outcomes": {
+        "win": 6,
+        "loss": 0,
+        "draw": 3
+      }
+    }
+  }
+}
