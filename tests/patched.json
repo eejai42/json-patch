@@ -23,6 +23,13 @@
           "player_code": "Z",
           "wins_against": "B",
           "score": 3
+        },
+        {
+          "name": "Lizard",
+          "opp_code": "D",
+          "player_code": "W",
+          "wins_against": "B",
+          "score": 4
         }
       ],
       "outcomes": {
